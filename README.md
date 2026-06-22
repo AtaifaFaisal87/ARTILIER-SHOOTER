@@ -6,7 +6,7 @@
 
 ## 🎮 Gameplay Preview
 
-![Artillery Shooter Gameplay](artillery_preview.png)
+![Artillery Shooter Gameplay](artilier.png)
 
 ---
 
